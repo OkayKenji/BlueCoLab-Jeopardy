@@ -111,7 +111,7 @@
                 {
                     "value": 400,
                     "question": "The message that pops up when there is an error in code.",
-                    "answer": "What is a python?"
+                    "answer": "What is an error? What is float? What is list?"
                 },
                 {
                     "value": 500,
@@ -131,7 +131,7 @@
                 {
                     "value": 200,
                     "question": "A collection of pre-made code that someone else already created.",
-                    "answer": "What is documentation?"
+                    "answer": "What is library?"
                 },
                 {
                     "value": 300,
@@ -145,8 +145,8 @@
                 },
                 {
                     "value": 500,
-                    "question": "What is an error?",
-                    "answer": "What is a python?"
+                    "question": "A collection of resources to help you program.",
+                    "answer": "What is documentation?"
                 }
             ]
         }
