@@ -94,27 +94,27 @@
             "name": "Python",
             "questions": [
                 {
-                    "value": 4,
+                    "value": 100,
                     "question": "The order in which math is done.",
                     "answer": "What is PEMDAS?"
                 },
                 {
-                    "value": 5,
+                    "value": 200,
                     "question": "The missing statement in this line: import pandas pd",
                     "answer": "What is 'as'?"
                 },
                 {
-                    "value": 4,
+                    "value": 300,
                     "question": "The error in \"shots_url + 'https://www.murach.com/python_analysis/shots.json'\"",
                     "answer": "What is the '+' sign?"
                 },
                 {
-                    "value": 5,
+                    "value": 400,
                     "question": "The message that pops up when there is an error in code.",
                     "answer": "What is a python?"
                 },
                 {
-                    "value": 4,
+                    "value": 500,
                     "question": "Data types used in Python [at least 2].",
                     "answer": "What is integer? What is string?"
                 }
@@ -124,27 +124,27 @@
             "name": "Random",
             "questions": [
                 {
-                    "value": 4,
+                    "value": 100,
                     "question": "What all programmers do when they encounter an issue.",
                     "answer": "What is Google? What is just look it up?"
                 },
                 {
-                    "value": 5,
+                    "value": 200,
                     "question": "A collection of pre-made code that someone else already created.",
                     "answer": "What is documentation?"
                 },
                 {
-                    "value": 4,
+                    "value": 300,
                     "question": "The method to add libraries into Python.",
                     "answer": "What is to import?"
                 },
                 {
-                    "value": 5,
+                    "value": 400,
                     "question": "A reptile that kills its prey by constriction.",
                     "answer": "What is a python?"
                 },
                 {
-                    "value": 4,
+                    "value": 500,
                     "question": "What is an error?",
                     "answer": "What is a python?"
                 }
