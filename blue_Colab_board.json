@@ -111,12 +111,12 @@
                 {
                     "value": 400,
                     "question": "The message that pops up when there is an error in code.",
-                    "answer": "What is an error? What is float? What is list?"
+                    "answer": "What is an error?"
                 },
                 {
                     "value": 500,
                     "question": "Data types used in Python [at least 2].",
-                    "answer": "What is integer? What is string?"
+                    "answer": "What is integer? What is string? What is float? What is list?"
                 }
             ]
         },
