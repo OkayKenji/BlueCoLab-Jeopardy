@@ -100,7 +100,7 @@
                 },
                 {
                     "value": 200,
-                    "question": "The missing statement in this line: import pandas pd",
+                    "question": "The missing statement in this line: import pandas __ pd",
                     "answer": "What is 'as'?"
                 },
                 {
